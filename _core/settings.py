@@ -146,7 +146,7 @@ SIMPLE_JWT = {
 
 SPECTACULAR_SETTINGS = {
     "TITLE": "K6 documentation",
-    "DESCRIPTION": "API routes",
+    "DESCRIPTION": "DOCUMENTO DO GERENCIADOR K6",
     "VERSION": "1.0.0",
     "SERVE_INCLUDE_SCHEMA": False,
 }
